@@ -11,3 +11,14 @@ I will write studying memo.
 1. [社内文書管理はGitHubで！非エンジニアのためのGitHub講座](https://qiita.com/takose/items/8920e4ab52119afd7779) 
 1. [デザイナーがこうやってGit覚えて大好きになったよ](https://qiita.com/yunico-jp/items/87bdd13971e82833f6bb) 
 
+
+
+# VSCodeでGitHUBを使う
+1. gitインストール。
+1. VSCodeでリポジトリにするローカルフォルダを開く。
+1. VSCodeでTerminalを開く。
+1. gitコマンド操作する。
+    1. git init
+    1. git clone https://xxx~
+       URLは、Gitのサイトの緑色の「code」ボタンを押すと表示される。
+
