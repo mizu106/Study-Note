@@ -17,8 +17,11 @@ I will write studying memo.
 1. gitインストール。
 1. VSCodeでリポジトリにするローカルフォルダを開く。
 1. VSCodeでTerminalを開く。
-1. gitコマンド操作する。
+1. gitコマンドでローカルにコピーを作る。
     1. git init
     1. git clone https://xxx~
        URLは、Gitのサイトの緑色の「code」ボタンを押すと表示される。
-
+1. gitコマンドでリモートに書き込む。
+    1. git add <filename>
+    1. git commit -m "メッセージ"
+    1. git push
