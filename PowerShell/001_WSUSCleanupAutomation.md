@@ -18,3 +18,10 @@
     1. -DeclineExpiredUpdates
 1. ■置き換えられた更新
     1. -DeclineSupersededUpdates
+
+## ログをイベントに書き出してみる
+
+[【 New-EventLog 】コマンドレット](https://atmarkit.itmedia.co.jp/ait/articles/1611/22/news017.html)
+
+
+
