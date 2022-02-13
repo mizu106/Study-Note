@@ -8,6 +8,7 @@
 [これから始めるWSUS 3.0入門（後編）](https://atmarkit.itmedia.co.jp/ait/articles/0709/13/news125.html)
 [Q&A Windows Server Update Services（第6回）](https://atmarkit.itmedia.co.jp/fwin2k/operation/wsusqa06/wsusqa06_02.html)
 
+---
 
 ## クリーンアップ
 
@@ -15,6 +16,14 @@
 [WSUS で不要な更新プログラムのインストーラーを削除する](https://social.msdn.microsoft.com/Forums/ja-JP/8848a2f3-fb6d-46cc-8405-3c05d3fe0ced/wsus?forum=jpsccmwsus)
 [WSUS で定期的なクリーンアップ、ちゃんとやっていますか？](https://turningp.jp/server-client/windows/wsus-cleanup)
 
+### レプリカが同期に失敗する
+
 [レプリカ構成では サーバー クリーンアップ ウィザード にご注意ください ](https://social.msdn.microsoft.com/Forums/ja-JP/f05e2bae-7fd4-4eed-9ba6-b646308417d0/1252412503125221245927083251041239112399-12469125401249612540?forum=jpsccmwsus)
 [レプリカ WSUS サーバーの同期がタイムアウトで失敗する](https://blogs.iis.net/wincat/wsus)
++ マスターからクリーンアップを行うと、レプリカの動機に失敗する事象が発生することの詳細。
 
+### コマンドラインからクリーンアップ
+
+[【PowerShell】WSUSのクリーンアップを定期的に自動実行](https://www.livefree.jp/powershell_wsus_cleanup/)
+[【PowerShell】WSUSのクリーンアップを定期的に自動実行２](https://www.livefree.jp/powershell_wsus_cleanup2/)
++ イベントログに通知を行う方法。
