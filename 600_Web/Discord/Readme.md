@@ -14,8 +14,8 @@
 ## Discordのbot
 [[備忘録] DiscordサーバーとTrelloを連携する手順](https://qiita.com/mino_s2000/items/b2436aaa9acae255be78)
 [Pythonで実用Discord Bot(discordpy解説)](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
-[Discord.py](https://discordpy.readthedocs.io/ja/latest/api.html)
-[DiscordのBotを作成する方法18個｜Botができることとは？](https://www.fenet.jp/infla/column/technology/discord%E3%81%AEbot%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%9518%E5%80%8B%EF%BD%9Cbot%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A8%E3%81%AF%EF%BC%9F/)
+
+### [DiscordBotの作り方](./001_HowToMakeDiscordBot.md)
 
 ---
 
