@@ -39,6 +39,6 @@ JOBのステータスはリターンコードを元に、単位JOBの設定で�
 ++ 「停止しない」を選択したとき  
 単位JOBはERRORになり、後続のJOBは実行される。  
 
-
+[JobCenter運用構築ガイド](https://jpn.nec.com/websam/jobcenter/download/manual/15_1/JB_OPE.pdf)
 
 
