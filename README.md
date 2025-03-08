@@ -35,5 +35,5 @@ I will write studying memo.
 
 
 
-コミットのテスト
+コミットのテスト  
 コンフリクトの行（ローカル）
