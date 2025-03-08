@@ -32,3 +32,8 @@ I will write studying memo.
 ----|----
 | TD1 | TD3 |
 | TD2 | TD4 |
+
+
+
+コミットのテスト
+コンフリクトの行（ローカル）
